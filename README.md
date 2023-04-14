@@ -1,1 +1,1 @@
-# Oasis_Task02_GuessGame
+# Oasis_Infobyte_Task02_GuessGame
